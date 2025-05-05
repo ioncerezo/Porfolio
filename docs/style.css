@@ -292,6 +292,10 @@ hr {
     display: flex;
     justify-content: space-between;
   }
+  #experiencia-academica article p:nth-child(2) {
+    text-align: right;
+  }
+
   .experiencia-line::after {
     width: 100%;
   }
@@ -331,4 +335,8 @@ footer img {
   margin-left: 3px;
   vertical-align: text-bottom;
   filter: contrast(80%);
+}
+
+footer p:last-child {
+  text-align: right;
 }

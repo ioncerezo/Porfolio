@@ -36,7 +36,7 @@
         <main>
           <section>
             
-            <h2>Proyectos destacados - JAVA</h2>
+            <h2>Proyectos destacados</h2>
             <div class="proyectos-destacados">
               <xsl:for-each select="//proyectosDestacados/proyecto">
                 <xsl:variable name="alt" select="alt"/>

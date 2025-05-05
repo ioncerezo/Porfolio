@@ -336,3 +336,7 @@ footer img {
   vertical-align: text-bottom;
   filter: contrast(80%);
 }
+
+footer p:last-child {
+  text-align: right;
+}
