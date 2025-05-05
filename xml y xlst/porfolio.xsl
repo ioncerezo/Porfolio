@@ -73,9 +73,9 @@
           <section>
             <h2>Otros proyectos</h2>
             <xsl:for-each select="//otrosProyectos/proyecto">
-              <xsl:variable name="url" as="xs:string" select="link"/>
-              <xsl:variable name="deploy" as="xs:string" select="deploy"/>
-              <xsl:variable name="jar" as="xs:string" select="jar"/>
+              <xsl:variable name="url" select="link"/>
+              <xsl:variable name="deploy" select="deploy"/>
+              <xsl:variable name="jar"  select="jar"/>
               <article class="otros-proyectos-line">
                 <div class="one-line">
                   <p><xsl:value-of select="nombre"/> </p>
