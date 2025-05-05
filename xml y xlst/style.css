@@ -344,7 +344,7 @@ footer img {
   filter: contrast(80%);
 }
 footer p:first-child {
-  min-width: max-content;
+  min-width: fit-content;
 }
 footer p:last-child {
   text-align: right;
