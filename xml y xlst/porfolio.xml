@@ -5,8 +5,7 @@
         <proyecto>
             <nombre>Proyecto 1</nombre>
             <alt>ahahssua</alt>
-            <img>
-                https://placehold.co/190x250</img>
+            <img>https://placehold.co/190x250</img>
             <github>www.github.com/ioncerezo1</github>
             <link>/gestor1</link>
             <web>www.gestor.com</web>
