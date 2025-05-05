@@ -31,7 +31,7 @@
             </tecnologias>
         </proyecto>
         <proyecto>
-            <nombre>Landing page de SASS genérica</nombre>
+            <nombre>Landing page de SASS</nombre>
             <link>https://github.com/ioncerezo/generic-landing-page</link>
             <deploy>https://generic-landing-page-psi.vercel.app/</deploy>
             <tecnologias>
