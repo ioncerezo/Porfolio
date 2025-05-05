@@ -43,7 +43,7 @@
         <proyecto>
             <nombre>Porfolio personal</nombre>
             <link>https://github.com/ioncerezo/Porfolio</link>
-            <deploy>ioncerezo.tech</deploy>
+            <deploy>https://ioncerezo.tech</deploy>
             <tecnologias>
                 <tecnologia>XSLT</tecnologia>
             </tecnologias>
