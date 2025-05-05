@@ -6,7 +6,7 @@ REM Transformar XML con XSL
 java -jar "%SAXON_JAR%" ^
  -s:"xml y xlst\porfolio.xml" ^
  -xsl:"xml y xlst\porfolio.xsl" ^
- -o:"docs\index.docs"
+ -o:"docs\index.html"
 
 REM Copiar archivos CSS
 copy "xml y xlst\style.css" "docs\style.css" >nul
