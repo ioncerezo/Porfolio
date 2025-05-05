@@ -93,6 +93,9 @@ header {
   margin-top: 128px;
 }
 
+header a {
+  font-weight: 600;
+}
 header h2 {
   color: var(--secondary-text-color);
   font-weight: 500;
