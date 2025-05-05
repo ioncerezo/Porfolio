@@ -190,7 +190,7 @@
               >
               CC0 1.0
             </a>
-            2025 - Ion Cerezo
+            Ion Cerezo
           </p>
           <p>Copia, modifica y comparte sin pedir permiso :)</p>
         </footer>
