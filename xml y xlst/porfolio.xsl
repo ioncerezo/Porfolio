@@ -122,7 +122,7 @@
               <h2>Experiencia académica</h2>
               <article>
                 <p>Desarrollo de Aplicaciones Web</p>
-                <p>Formación Profesional</p>
+                <p>Grado Superior</p>
               </article>
               <article>
                 <p>Educación Social</p>
@@ -130,7 +130,7 @@
               </article>
               <article>
                 <p>Integración Social</p>
-                <p>Formación Profesional</p>
+                <p>Grado Superior</p>
               </article>
             </div>
           </section>

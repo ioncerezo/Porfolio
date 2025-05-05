@@ -259,6 +259,7 @@ hr {
 }
 
 
+
 #experiencia-academica {
   text-align: right;
 }
@@ -294,6 +295,11 @@ hr {
   }
   #experiencia-academica article p:nth-child(2) {
     text-align: right;
+  }
+  .experiencia-line, #experiencia-academica article {
+    flex-direction: column-reverse;
+    text-align: left;
+    align-items: start;
   }
 
   .experiencia-line::after {
