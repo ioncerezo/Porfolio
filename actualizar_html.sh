@@ -7,7 +7,7 @@ SAXON_JAR="saxon/saxon-he-12.6.jar"
 java -jar "$SAXON_JAR" \
   -s:"xml y xlst/porfolio.xml" \
   -xsl:"xml y xlst/porfolio.xsl" \
-  -o:"docs/index.docs"
+  -o:"docs/index.html"
 
 # Copiar archivos CSS
 cp "xml y xlst/style.css" "docs/style.css"
