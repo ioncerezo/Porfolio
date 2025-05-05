@@ -15,7 +15,7 @@ body {
   font-size: 0.875rem; /* 14px */
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
-  font-family: "PP Neue Montreal", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 500;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
