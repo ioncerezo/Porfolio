@@ -6,8 +6,6 @@ Un sitio web de portafolio minimalista construido utilizando transformación XML
 
 Este sitio web de portafolio se genera a partir de datos XML utilizando transformaciones XSLT. La estructura del proyecto separa el contenido (XML) de la presentación (XSLT y CSS), lo que facilita la actualización de información sin modificar el diseño.
 
-![Captura de pantalla del Portafolio](https://via.placeholder.com/800x450)
-
 ## 🔧 Tecnologías utilizadas
 
 - **XML**: Almacena todos los datos de contenido del portafolio
