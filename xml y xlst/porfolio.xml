@@ -3,18 +3,18 @@
 <porfolio>
     <proyectosDestacados>
         <proyecto>
-            <nombre>Gestor 1</nombre>
+            <nombre>Proyecto 1</nombre>
             <alt>ahahssua</alt>
             <img>
-                https://framerusercontent.com/images/UIClvfFbXPDUHU7YgBMeAiDQ.jpg?scale-down-to=1024</img>
+                https://placehold.co/190x250</img>
             <github>www.github.com/ioncerezo1</github>
             <link>/gestor1</link>
             <web>www.gestor.com</web>
         </proyecto>
         <proyecto>
-            <nombre>Gestor 2</nombre>
+            <nombre>Proyecto 2</nombre>
             <alt>ahahssua</alt>
-            <img>https://framerusercontent.com/images/UIClvfFbXPDUHU7YgBMeAiDQ.jpg?scale-down-to=1024</img>
+            <img>https://placehold.co/190x250</img>
             <github>www.github.com/ioncerezo2</github>
             <link>/gestor2</link>
             <web>www.gestor.com</web>
