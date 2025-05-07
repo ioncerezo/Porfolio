@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="normalize.css" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
         <link rel="stylesheet" href="style.css" />
+        <link rel="icon" href="image/favicon.ico" type="image/x-icon" />
         <title>Ion Cerezo Valero - Portfolio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
