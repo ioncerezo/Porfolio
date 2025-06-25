@@ -47,5 +47,15 @@
                 <tecnologia>XSLT</tecnologia>
             </tecnologias>
         </proyecto>
+        <proyecto>
+            <nombre>Pokedex con PokeAPI</nombre>
+            <link>https://github.com/ioncerezo/pokeAPI-react</link>
+            <deploy>https://ion-react-pokedex.netlify.app/</deploy>
+            <tecnologias>
+                <tecnologia>Javascript</tecnologia>
+                <tecnologia>React</tecnologia>
+                <tecnologia>API</tecnologia>
+            </tecnologias>
+        </proyecto>
     </otrosProyectos>
 </porfolio>
