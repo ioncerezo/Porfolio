@@ -21,6 +21,16 @@
     </proyectosDestacados>
     <otrosProyectos>
         <proyecto>
+            <nombre>GUI base de datos de NBA</nombre>
+            <link> https://github.com/ioncerezo/nba-sql/</link>
+            <jar>https://drive.google.com/file/d/1L7uWR9JweBSQLNyQpr68kyCajEOcqHn5/view</jar>
+            <tecnologias>
+                <tecnologia>Java</tecnologia>
+                <tecnologia>SQL</tecnologia>
+                <tecnologia>Swing</tecnologia>
+            </tecnologias>
+        </proyecto>
+        <proyecto>
             <nombre>JavaBank CLI</nombre>
             <link>https://github.com/ioncerezo/JavaBankCLI</link>
             <jar>https://github.com/ioncerezo/JavaBankCLI/releases/tag/Release</jar>

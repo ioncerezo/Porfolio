@@ -35,8 +35,9 @@
         <hr />
         
         <main>
+          
+          <!--  PROYECTOS DESTACADOS CON IMAGENES
           <section>
-            
             <h2>Proyectos destacados</h2>
             <div class="proyectos-destacados">
               <xsl:for-each select="//proyectosDestacados/proyecto">
@@ -65,11 +66,12 @@
               </xsl:for-each>
             </div>
           </section>
-          
           <hr />
+          -->
+          
           
           <section>
-            <h2>Otros proyectos</h2>
+            <h2>Proyectos destacados</h2>
             <xsl:for-each select="//otrosProyectos/proyecto">
               <xsl:variable name="url" select="link"/>
               <xsl:variable name="deploy" select="deploy"/>
