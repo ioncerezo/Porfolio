@@ -171,7 +171,7 @@
             <h2>Conectemos</h2>
             <p>
               Puedes contactar conmigo por correo: 
-              <a href="mailto:ioncerezovalero@gmail.com">ioncerezovalero@gmail.com</a>
+              <a href="mailto:ioncerezo@protonmail.com">ioncerezo@protonmail.com</a>
             </p>
             <p>
               O seguir cotilleando un poco mas por aquí: 
